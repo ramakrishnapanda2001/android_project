@@ -1,4 +1,4 @@
-# JU Blood Bank - Your Blood Donation Companion
+# CUTM Blood Bank - Your Blood Donation Companion
 
 JU Blood Bank is an Android mobile application developed in Kotlin that serves as a dedicated platform for blood donation and blood request management. Whether you are looking for a blood donation or want to contribute by donating blood, our app simplifies the entire process and connects donors and recipients seamlessly.
 
